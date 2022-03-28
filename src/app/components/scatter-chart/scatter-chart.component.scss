@@ -1,0 +1,13 @@
+.chart
+{
+    overflow-x: auto;
+}
+.chart::-webkit-scrollbar {
+    background-color: rgb(255, 255, 255);
+    width: 10px;
+  }
+  
+.chart::-webkit-scrollbar-thumb {
+    background-color: rgb(37, 174, 216);
+    border-radius: 20px;
+  }
