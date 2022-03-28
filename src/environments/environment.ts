@@ -4,9 +4,9 @@
 
 export const environment = {
   production: false,
-  APIURL:"http://api.worldweatheronline.com/premium/v1/weather.ashx?key=404585e987ea491fa86113055222703&q="
+  APIURL:"http://api.worldweatheronline.com/premium/v1/weather.ashx?key=1c3c3efc45d844d7b23210836222203&q="
 };
-//   1c3c3efc45d844d7b23210836222203
+//   
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
